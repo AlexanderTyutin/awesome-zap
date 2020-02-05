@@ -1,4 +1,4 @@
-# zapdocs
+# Awesome ZAP
 
 ## ZAP basics
 [Official site](https://www.zaproxy.org/)
