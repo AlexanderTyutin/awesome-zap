@@ -21,4 +21,15 @@ From: https://www.zaproxy.org/zap-in-ten/
 
 ## ZAP Automation Learning
 
-[dzone.com - Automate ZAP Security Tests With Selenium Webdriver](https://dzone.com/articles/automate-zap-security-tests-with-selenium-webdrive-1)
+* [dzone.com - Automate ZAP Security Tests With Selenium Webdriver](https://dzone.com/articles/automate-zap-security-tests-with-selenium-webdrive-1)
+* [SW Test Academy - Automated Security Testing Using OWASP ZAP](https://www.swtestacademy.com/automated-security-testing-using-zap/)
+* [SW Test Academy - ZAP Authentication](https://www.swtestacademy.com/zap-authentication/)
+* [ZFPSystems/zaproxy-automation](https://github.com/ZFPSystems/zaproxy-automation)
+* [Diving OWASP ZAP with Selenium](https://owasp.org/www-chapter-london/assets/slides/OWASPLondon-OWASP-ZAP-Selenium-20180830-PDF.pdf)
+* https://www.nearform.com/blog/zed-attack-proxy-in-a-ci-pipeline/
+* https://softwaretester.info/category/test-automation/
+* https://github.com/zaproxy/zaproxy/wiki
+
+# Other
+
+https://allabouttesting.org/testssl-sh-tool-to-check-ssl-tls-related-vulnerabilities/
