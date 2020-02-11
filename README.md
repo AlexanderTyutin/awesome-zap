@@ -30,6 +30,12 @@ From: https://www.zaproxy.org/zap-in-ten/
 * https://softwaretester.info/category/test-automation/
 * https://github.com/zaproxy/zaproxy/wiki
 
+## Testing Automation Learning
+
+* [Awesome Testing - Continuous Security with OWASP ZAP](https://www.awesome-testing.com/2018/12/continuous-security-with-owasp-zap.html)
+* [Awesome Testing - Continuous Security with OWASP](https://www.awesome-testing.com/2017/02/continuous-security-with-owasp.html)
+
+
 # Other
 
 https://allabouttesting.org/testssl-sh-tool-to-check-ssl-tls-related-vulnerabilities/
