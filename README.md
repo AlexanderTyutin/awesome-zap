@@ -37,6 +37,7 @@ From: https://www.zaproxy.org/zap-in-ten/
 * [Awesome Testing - Continuous Security with OWASP ZAP](https://www.awesome-testing.com/2018/12/continuous-security-with-owasp-zap.html)
 * [Awesome Testing - Continuous Security with OWASP](https://www.awesome-testing.com/2017/02/continuous-security-with-owasp.html)
 * [Lettuce Basic Example RUS](http://automation-remarks.com/lettuce-python/) - Хорошая статья для первой пробы пакета Lettuce
+* [Lettuce Basic Reference](http://lettuce.it/reference/cli.html) - Some variants of lettuce running
 
 
 # Other
