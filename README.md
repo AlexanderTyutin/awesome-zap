@@ -21,6 +21,8 @@ From: https://www.zaproxy.org/zap-in-ten/
 
 ## ZAP Automation Learning
 
+* [ZAP Basic Scan Python Example](https://github.com/zaproxy/zap-api-python/blob/master/src/examples/basic-spider-scan.py) - From official repository
+* [ZAP Enchanced Scan Python Example](https://github.com/zaproxy/zap-api-python/blob/master/src/examples/zap_example_api_script.py) - From official repository
 * [dzone.com - Automate ZAP Security Tests With Selenium Webdriver](https://dzone.com/articles/automate-zap-security-tests-with-selenium-webdrive-1)
 * [SW Test Academy - Automated Security Testing Using OWASP ZAP](https://www.swtestacademy.com/automated-security-testing-using-zap/)
 * [SW Test Academy - ZAP Authentication](https://www.swtestacademy.com/zap-authentication/)
